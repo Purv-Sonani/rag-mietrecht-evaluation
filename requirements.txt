@@ -1,0 +1,14 @@
+# core (already exercised in the dry run)
+rank-bm25==0.2.2
+scikit-learn>=1.4
+numpy>=1.26
+
+# enable on your own machine for the reported results
+sentence-transformers>=3.0    # multilingual-e5-base + bge-reranker-base
+torch>=2.2
+
+# analysis / export for Chapter 4.1
+pandas>=2.2
+matplotlib>=3.8
+scipy>=1.12                   # paired tests + confidence intervals
+krippendorff>=0.6             # inter-rater agreement for Strand B

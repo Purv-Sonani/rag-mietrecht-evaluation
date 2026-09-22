@@ -1,0 +1,18 @@
+{"qid":"Q001","question":"Die Heizung in meiner Wohnung ist seit drei Wochen im Januar defekt. Darf ich die Miete kürzen?","gold":["BGB § 536"],"answerable":true,"theme":"Mangel/Minderung","difficulty":"single-hop"}
+{"qid":"Q002","question":"Wie hoch darf die Mietkaution für eine Wohnung höchstens sein und darf ich sie in Raten zahlen?","gold":["BGB § 551"],"answerable":true,"theme":"Kaution","difficulty":"single-hop"}
+{"qid":"Q003","question":"Welche Kündigungsfrist muss ich als Mieter einhalten, wenn ich nach fünf Jahren ausziehen will?","gold":["BGB § 573c"],"answerable":true,"theme":"Kündigung","difficulty":"single-hop"}
+{"qid":"Q004","question":"Mein Vermieter kündigt wegen Eigenbedarf für seine Tochter. Ist das zulässig?","gold":["BGB § 573"],"answerable":true,"theme":"Kündigung","difficulty":"single-hop"}
+{"qid":"Q005","question":"Wer muss die Wohnung während der Mietzeit instand halten, der Mieter oder der Vermieter?","gold":["BGB § 535"],"answerable":true,"theme":"Hauptpflichten","difficulty":"single-hop"}
+{"qid":"Q006","question":"Um wie viel Prozent darf die Miete innerhalb von drei Jahren erhöht werden?","gold":["BGB § 558"],"answerable":true,"theme":"Mieterhöhung","difficulty":"single-hop"}
+{"qid":"Q007","question":"Mein Vermieter hat den Balkon saniert. Welchen Anteil der Kosten darf er auf die Jahresmiete umlegen?","gold":["BGB § 559"],"answerable":true,"theme":"Modernisierung","difficulty":"single-hop"}
+{"qid":"Q008","question":"Bis wann muss der Vermieter mir die Betriebskostenabrechnung für das Vorjahr zuschicken?","gold":["BGB § 556"],"answerable":true,"theme":"Betriebskosten","difficulty":"single-hop"}
+{"qid":"Q009","question":"Darf ich ein Zimmer meiner Wohnung untervermieten, wenn mein Partner ausgezogen ist?","gold":["BGB § 553"],"answerable":true,"theme":"Untermiete","difficulty":"single-hop"}
+{"qid":"Q010","question":"Ab wie vielen Monaten Mietrückstand darf mir fristlos gekündigt werden, und kann ich das noch abwenden?","gold":["BGB § 543","BGB § 569"],"answerable":true,"theme":"Kündigung","difficulty":"multi-hop"}
+{"qid":"Q011","question":"Welche Kostenarten zählen überhaupt als umlagefähige Betriebskosten?","gold":["BetrKV § 2"],"answerable":true,"theme":"Betriebskosten","difficulty":"cross-source"}
+{"qid":"Q012","question":"Nach welchem Schlüssel müssen die Heizkosten zwischen den Mietparteien verteilt werden?","gold":["HeizkostenV § 7"],"answerable":true,"theme":"Heizkosten","difficulty":"cross-source"}
+{"qid":"Q013","question":"Ich zahle deutlich mehr als ortsüblich. Welche Auskunft kann ich vom Vermieter verlangen und ab wann bekomme ich Geld zurück?","gold":["BGB § 556g"],"answerable":true,"theme":"Mietpreisbremse","difficulty":"multi-hop"}
+{"qid":"Q014","question":"Darf der Vermieter meine Möbel zurückhalten, wenn ich mit der Miete im Rückstand bin?","gold":["BGB § 562"],"answerable":true,"theme":"Vermieterpfandrecht","difficulty":"single-hop"}
+{"qid":"Q015","question":"Wie hoch ist der Berliner Mietspiegel 2026 für eine Altbauwohnung in Neukölln?","gold":[],"answerable":false,"theme":"ausserhalb Korpus","difficulty":"unanswerable"}
+{"qid":"Q016","question":"Welches Amtsgericht in Berlin ist für meine Räumungsklage örtlich zuständig?","gold":[],"answerable":false,"theme":"ausserhalb Korpus","difficulty":"unanswerable"}
+{"qid":"Q017","question":"Wie viel kostet ein Mietrechtsanwalt in Berlin für eine Erstberatung?","gold":[],"answerable":false,"theme":"ausserhalb Korpus","difficulty":"unanswerable"}
+{"qid":"Q018","question":"Muss ich meinem Vermieter mitteilen, dass ich einen Hund anschaffen möchte?","gold":[],"answerable":false,"theme":"nicht im Gesetzestext geregelt","difficulty":"unanswerable"}
